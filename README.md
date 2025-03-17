@@ -12,6 +12,7 @@ Lekelela Creative Hub is a **responsive portfolio website** showcasing web devel
 
 ## 🛠️ Technologies Used
 - **Frontend**: HTML, Bootstrap CSS
+- **Framework**: Flask
 - **Backend**: Python
 - **Deployment**: Microsoft Azure
 - **Responsive Design**: Ensures accessibility on various screen sizes
@@ -42,7 +43,6 @@ Make sure you have the following installed:
 
 ## 🚀 Future Enhancements
 - Integrate a contact form for client inquiries.
-- Add backend functionality using Django or Flask.
 - Include a blog section for design tips and industry insights.
 
 ## 📩 Contact
