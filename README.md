@@ -5,6 +5,8 @@ Lekelela Creative Hub is a **responsive portfolio website** showcasing web devel
 ## 🚀 Features
 - **Fully Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 - **Portfolio Showcase**: Displays **graphic design posters** and **web development projects**.
+- **AI Chatbot**: Integrated **AI-powered assistant** to help users navigate and provide information.
+- **Contact Form**: Allows clients to send inquiries directly through the website.
 - **Clean & Modern UI**: Styled with **Bootstrap CSS** for a sleek and professional look.
 - **Fast & Lightweight**: Ensures smooth navigation and quick load times.
 - **Easy Navigation**: Intuitive layout for a seamless user experience.
@@ -16,6 +18,15 @@ Lekelela Creative Hub is a **responsive portfolio website** showcasing web devel
 - **Backend**: Python
 - **Deployment**: Microsoft Azure
 - **Responsive Design**: Ensures accessibility on various screen sizes
+
+## 🔄 Fork & Update Process
+I recently **forked** the project after my friend contributed **new colors and sections** showcasing additional work. After reviewing the updates, I merged them into the main branch and redeployed the updated version to **Azure** for better user experience and improved aesthetics.
+
+### Steps Taken:
+1. **Forked the repository** to preserve the original version.
+2. **Reviewed the updates**, ensuring consistency with the project vision.
+3. **Merged changes** after verifying functionality and responsiveness.
+4. **Deployed the updated version** to Azure for public access.
 
 ## 📌 Installation Guide
 
@@ -40,14 +51,27 @@ Make sure you have the following installed:
 ## 📸 Portfolio Sections
 - **Web Development**: Showcasing past websites built for clients.
 - **Graphic Design**: Featuring digital posters, branding work, and other creative designs.
+- **AI Chatbot**: Assisting visitors with queries and navigation.
+- **Contact Form**: Facilitating client inquiries and business collaborations.
 
 ## 🚀 Future Enhancements
-- Integrate a contact form for client inquiries.
+- Improve AI chatbot functionality for more dynamic interactions.
+- Expand the contact form with automated responses.
 - Include a blog section for design tips and industry insights.
 
 ## 📩 Contact
-For inquiries or collaborations, reach out at *mphumelelingema@icloud.com**.
+For inquiries or collaborations, reach out at **mphumelelingema@icloud.com**.
 
 ---
-📌 **Live Demo**: [Visit Lekelela Creative Hub]([https://your-website-url.com](https://lekelela-hmabg9cvcsc6cpbs.eastus-01.azurewebsites.net/)) (Hosted on Azure)
+📌 **Live Demo**: [Visit Lekelela Creative Hub](https://lekelela-hmabg9cvcsc6cpbs.eastus-01.azurewebsites.net/) (Hosted on Azure)
+
+![Screenshot 2025-03-19 000311](https://github.com/user-attachments/assets/ee1d1bee-7944-4cde-a76d-b833116d5a0a)
+
+
+
+
+
+
+
+
 
